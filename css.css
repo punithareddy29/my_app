@@ -64,8 +64,8 @@
   .indicators button {
     margin: 5px;
     border: none;
-    width: 30px !important;
-    margin-top: -15px !important;
+    width: 30px;
+    margin-top: -15px;
     position: relative;
     z-index: 1;
     height: 1px;
@@ -74,7 +74,7 @@
   
   .indicators button.active {
     color: #fff;
-    width: 40px !important;
+    width: 40px;
   }
   
   .p-Home.Flex1 {
@@ -2329,7 +2329,6 @@ overflow: clip;
   height: 145px;
   border-radius: 25px;
   }
-  @media screen and (max-width: 991px) {
       .p-Home.Flex138.bpt {
   -moz-column-gap: 30px;
        column-gap: 30px;
@@ -2437,7 +2436,6 @@ overflow: clip;
   align-items: center;
       }
   }
-  @media screen and (max-width: 767px) {
       .p-Home.Flex113.bpt {
   align-items: center;
       }
@@ -2533,7 +2531,6 @@ overflow: clip;
   width: 70%;
       }
   }
-  @media screen and (max-width: 478px) {
       .p-Home.Flex1.bpt {
   padding-left: 50px;
   box-sizing: border-box;
@@ -3687,7 +3684,6 @@ overflow: clip;
   width: 30px;
   height: 30px;
   }
-  @media screen and (max-width: 991px) {
       .p-about.Menu2.bpt {
   display: flex;
       }
@@ -3718,8 +3714,6 @@ overflow: clip;
   width: 100%;
   justify-content: space-between;
       }
-  }
-  @media screen and (max-width: 478px) {
       .p-about.Flex145.bpt {
   padding-left: 50px;
       }
@@ -3827,7 +3821,7 @@ overflow: clip;
   }
   .p-menu.Flex342 {
   display: flex;
-  padding-right:o;
+  padding-right:;
   -moz-column-gap: 20px;
        column-gap: 20px;
   }
@@ -4122,7 +4116,7 @@ overflow: clip;
   align-items: flex-start;
   flex-direction: column;
   row-gap: 10px;
-  padding-left:px;
+  padding-left:;
   padding-right: 5px;
   }
   .p-menu.Flex254 {
@@ -4726,7 +4720,6 @@ overflow: clip;
   width: 30px;
   height: 30px;
   }
-  @media screen and (max-width: 991px) {
       .p-menu.Menu3.bpt {
   display: flex;
       }
@@ -4768,8 +4761,7 @@ overflow: clip;
   row-gap: 40px;
   align-items: center;
       }
-  }
-  @media screen and (max-width: 767px) {
+  
       .p-menu.Flex229.bpt {
   flex-direction: column;
   row-gap: 10px;
@@ -4784,9 +4776,7 @@ overflow: clip;
       }
       .p-menu.Flex258.bpt {
   width: 50%;
-      }
-  }
-  @media screen and (max-width: 478px) {
+}
       .p-menu.Flex203.bpt {
   padding-left: 50px;
       }
@@ -5543,8 +5533,6 @@ overflow: clip;
   flex-direction: column;
   row-gap: 20px;
       }
-  }
-  @media screen and (max-width: 478px) {
       .p-product.Flex265.bpt {
   padding-left: 50px;
       }
