@@ -3863,7 +3863,7 @@ overflow: clip;
   }
   .p-menu.Flex347 {
   display: flex;
-  row-gap: px;
+  row-gap:;
   -moz-column-gap: 25px;
        column-gap: 25px;
   }
@@ -5478,7 +5478,6 @@ overflow: clip;
   height: 145px;
   border-radius: 25px;
   }
-  @media screen and (max-width: 991px) {
       .p-product.Menu4.bpt {
   display: flex;
       }
@@ -5515,7 +5514,6 @@ overflow: clip;
   align-items: center;
       }
   }
-  @media screen and (max-width: 767px) {
       .p-product.Flex269.bpt {
   flex-direction: column;
   row-gap: 10px;
@@ -5541,8 +5539,8 @@ overflow: clip;
   padding-right: 50px;
       }
       .p-product.Flex296.bpt {
-  padding-left: px;
-  padding-right: px;
+  padding-left: ;
+  padding-right: ;
       }
       .p-product.Product_Image.bpt {
   width: 90%;
