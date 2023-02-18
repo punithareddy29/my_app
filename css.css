@@ -2435,7 +2435,6 @@ overflow: clip;
   row-gap: 40px;
   align-items: center;
       }
-  }
       .p-Home.Flex113.bpt {
   align-items: center;
       }
@@ -2530,7 +2529,6 @@ overflow: clip;
       .p-Home.TextBox106.bpt {
   width: 70%;
       }
-  }
       .p-Home.Flex1.bpt {
   padding-left: 50px;
   box-sizing: border-box;
@@ -2726,7 +2724,6 @@ overflow: clip;
       .p-Home.TextBox123.bpt {
   width: 60%;
       }
-  }
   .p-about.Flex145 {
   display: flex;
   justify-content: space-around;
@@ -3717,7 +3714,6 @@ overflow: clip;
       .p-about.Flex145.bpt {
   padding-left: 50px;
       }
-  }
   .p-menu.Flex203 {
   display: flex;
   justify-content: space-around;
@@ -3821,7 +3817,6 @@ overflow: clip;
   }
   .p-menu.Flex342 {
   display: flex;
-  padding-right:;
   -moz-column-gap: 20px;
        column-gap: 20px;
   }
@@ -3863,7 +3858,6 @@ overflow: clip;
   }
   .p-menu.Flex347 {
   display: flex;
-  row-gap:;
   -moz-column-gap: 25px;
        column-gap: 25px;
   }
@@ -4116,7 +4110,6 @@ overflow: clip;
   align-items: flex-start;
   flex-direction: column;
   row-gap: 10px;
-  padding-left:;
   padding-right: 5px;
   }
   .p-menu.Flex254 {
@@ -4811,7 +4804,6 @@ overflow: clip;
       .p-menu.Flex258.bpt {
   width: 70%;
       }
-  }
   .p-product.Flex265 {
   display: flex;
   justify-content: space-around;
@@ -5082,7 +5074,6 @@ overflow: clip;
   align-items: flex-start;
   flex-direction: column;
   row-gap: 10px;
-  padding-left: px;
   padding-right: 5px;
   }
   .p-product.Flex295 {
@@ -5513,7 +5504,7 @@ overflow: clip;
   row-gap: 40px;
   align-items: center;
       }
-  }
+  
       .p-product.Flex269.bpt {
   flex-direction: column;
   row-gap: 10px;
@@ -5538,10 +5529,6 @@ overflow: clip;
   padding-left: 50px;
   padding-right: 50px;
       }
-      .p-product.Flex296.bpt {
-  padding-left: ;
-  padding-right: ;
-      }
       .p-product.Product_Image.bpt {
   width: 90%;
       }
@@ -5551,7 +5538,7 @@ overflow: clip;
       .p-product.TextBox299.bpt {
   width: 90%;
       }
-  }
+
   .p-extra.Flex349 {
   display: flex;
   height: 100%;
